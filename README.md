@@ -1,4 +1,4 @@
-# [Visit my project site!](https://github.com/kamilaadamska/goit-react-hw-06-phonebook/blob/main/README.pl.md)
+# [Visit my project site!](https://kamilaadamska.github.io/goit-react-hw-06-phonebook/))
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
